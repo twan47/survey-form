@@ -3,7 +3,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color:rgba(27, 27, 27, 0.8);
-    color: white;
+    color:#3b3b4f;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
 }
@@ -14,11 +14,12 @@ h1, p {
 }
 
 h1 {
-    color: red;
+    color: whitesmoke;
 }
 
 p {
     font-weight: bold;
+    color: beige;
 }
 
 form {
@@ -27,6 +28,10 @@ form {
     min-width: 300px;
     margin: 0 auto;
     padding-bottom: 2em;
+    border:#3b3b4f 2px solid;
+    padding: 25px;
+    border-radius: 5px;
+    background-color: aquamarine;
 }
 
 fieldset {
