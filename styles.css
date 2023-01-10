@@ -32,6 +32,7 @@ form {
     padding: 25px;
     border-radius: 5px;
     background-color: aquamarine;
+    background-image:none;
 }
 
 fieldset {
